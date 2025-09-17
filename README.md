@@ -77,7 +77,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush-a143 theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush-a143theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
 ---
@@ -105,5 +105,5 @@
 ## 🔝 Most Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dhanush-a143 & limit=5 & theme=dark &combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhanush-a143&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
