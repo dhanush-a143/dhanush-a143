@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hi+I'm+Dhanush+A!;Cloud+Engineer;Enthusiastic+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hi+I'm+Dhanush+(DA)!;Cloud+Engineer;Enthusiastic+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -102,8 +102,4 @@
 
 ---
 
-## 🔝 Most Contributed Repos
 
-<p align="center">
-   <img src="https://github-contributor-stats.vercel.app/api?username=dhanush-a143&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
