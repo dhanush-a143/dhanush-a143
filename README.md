@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3htN3VqMDYxbjJvMTJ1b245ZzRiaXZheWd5cXRzd2x1OXQ1OGg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy.gif" width= "270" alt="Code Animation" />
 
 - 🔭 I build blazing-fast UIs and secure APIs  
 - 🧪 Currently learning : `Cloud Computing`, `AWS`, `DevOps`  
@@ -77,7 +77,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush-a143theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush-a143 theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
 ---
@@ -105,5 +105,5 @@
 ## 🔝 Most Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dhanush-a143&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhanush-a143 & limit=5 & theme=dark &combine_all_yearly_contributions=true" />
 </p>
