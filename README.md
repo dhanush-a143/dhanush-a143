@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3htN3VqMDYxbjJvMTJ1b245ZzRiaXZheWd5cXRzd2x1OXQ1OGg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy.gif width="270" alt="Code Animation" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3htN3VqMDYxbjJvMTJ1b245ZzRiaXZheWd5cXRzd2x1OXQ1OGg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy.gif" width= "270" alt="Code Animation" />
 
 - 🔭 I build blazing-fast UIs and secure APIs  
 - 🧪 Currently learning : `Cloud Computing`, `AWS`, `DevOps`  
