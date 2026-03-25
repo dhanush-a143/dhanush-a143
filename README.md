@@ -1,71 +1,67 @@
-<h1 align="center">
-Hi, I'm Dhanush (DA)
-</h1>
+<h1 align="center">Hi, I'm Dhanush (DA) 👋</h1>
 
-<h3 align="center">
-Web Application Content Writer | Focused on UX Writing & Product Communication
-</h3>
+<h3 align="center">🚀 Aspiring Cloud & DevOps Engineer</h3>
 
 ---
 
 ## 🧠 About Me
 
-- ✍️ I write clear, user-focused content for web applications  
-- 🧩 I focus on UI copy, onboarding flows, and product messaging  
-- 🌱 Currently learning: UX Writing, Product Thinking, Web Application Flow  
-- 🎯 Goal: To create content that improves user experience, not just fill space  
+- 🎯 Focused on becoming a **Cloud Engineer (AWS + DevOps)**
+- ⚙️ Currently learning: **AWS, Docker, CI/CD, Linux**
+- 🛠️ Building real-world projects, not just tutorials
+- 📍 Goal: Get job-ready with strong cloud fundamentals
 
 ---
 
-## 🚀 Current Project
+## 🚀 Projects (Real Work)
 
-### 📝 TaskFlow — Task Management Web App (Content Case Study)
+### 🔹 Cloud-Based Web App Deployment
+- Deployed full-stack app using **AWS EC2 + S3**
+- Configured **Nginx + HTTPS**
+- Automated deployment using basic scripts
 
-I am building a complete content system for a task management app, including:
+### 🔹 Dockerized Application
+- Containerized Node.js app using **Docker**
+- Reduced setup time from manual to 1 command
 
-- Button labels  
-- Input placeholders  
-- Error messages  
-- Empty states  
-- Onboarding flow  
-
----
-
-## ✍️ Sample UI Copy
-
-### 🔘 Buttons
-- Add Task  
-- Save Changes  
-- Cancel  
-- Delete Task  
-- Mark as Complete  
-
-### 📝 Input Fields
-- "Enter your task..."  
-- "Add a description (optional)"  
-
-### 📭 Empty State
-> No tasks yet. Start by adding your first task.
-
-### ⚠️ Error Messages
-- Task cannot be empty. Please enter a task.  
-- Invalid login details. Please try again.  
+### 🔹 CI/CD Pipeline (Beginner)
+- Built pipeline using **GitHub Actions**
+- Automated build + deployment workflow
 
 ---
 
-## 🎯 What I’m Looking For
+## 🧰 Tech Stack
 
-I’m looking to collaborate on:
+### ☁️ Cloud & DevOps
+AWS • Docker • GitHub Actions • Linux
 
-- Web applications or SaaS products  
-- UX writing / product content roles  
-- Improving user experience through clear and simple content  
+### 💻 Development
+HTML • CSS • JavaScript • Python
+
+### 🗄️ Database
+MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-a143&theme=github_dark&show_icons=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/dhanush-allimuthu/  
-- Email: dhanush7772k@gmail.com  
+<p align="center">
+  <a href="https://linkedin.com/in/dhanush-allimuthu/">LinkedIn</a> • 
+  <a href="mailto:dhanush7772k@gmail.com">Email</a>
+</p>
 
 ---
+
+## ⚡ Current Focus
+
+- Learning **AWS deeply (EC2, S3, IAM, VPC)**
+- Practicing **Docker + CI/CD pipelines**
+- Building **deployable real-world projects**
